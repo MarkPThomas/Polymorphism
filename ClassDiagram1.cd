@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Polymorphism.ClassA">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAQAAAAA=</HashCode>
+      <FileName>ClassA.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Polymorphism.ClassB">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAAAAA=</HashCode>
+      <FileName>ClassB.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Polymorphism.ClassC">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>ClassC.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Polymorphism.Form1">
+    <Position X="2.75" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgogAACIAAAAAAICAAAACAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Polymorphism.Owner">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAHAAAAAAAAA=</HashCode>
+      <FileName>Owner.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
